@@ -1,0 +1,14 @@
+{
+  "name": "redis-bot",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/UsboKirishima/redis-bot",
+  "author": "UsboKirishima <usbertibox@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/ioredis": "^4.28.10",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "ioredis": "^5.0.4"
+  }
+}
